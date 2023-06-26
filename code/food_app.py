@@ -88,7 +88,7 @@ if __name__ == "__main__":
     st.image(str(Path(__file__).parents[1] / 'img/food-delivery.png'), width=700)
 
     st.write("""  
-            The food delivery time prediction model is vital in ensuring prompt and accurate delivery in the food delivery industry. Leveraging advanced data cleaning techniques and feature engineering, a robust predictive model is developed using regression algorithm.
+            The food delivery time prediction model is vital in ensuring prompt and accurate delivery in the food delivery industry. Leveraging advanced data cleaning techniques and feature engineering, a robust delivery time predictive model is developed.
             This model predicts food delivery time based on a range of factors, including order details, location, city, delivery person information, and weather conditions.  
              """)
 
