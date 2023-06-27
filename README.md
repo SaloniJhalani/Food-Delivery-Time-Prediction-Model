@@ -1,5 +1,6 @@
 # Food Delivery Time Prediction Model
 
+![Image Description](img/food-delivery.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -57,7 +58,7 @@ A web-based demonstration of the food delivery time prediction model can be acce
 
 ## Results and Evaluation Criterion
 
-Based on the evaluation results, the best-performing model was **XGBoost** with R2 score of 0.82
+Based on the evaluation results, the best-performing model was **XGBoost** with R2 score of **0.82**
 
 ## Future Improvements
 
